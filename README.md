@@ -33,9 +33,6 @@ After the EDA, I attempt to predict how much a flight ticket it's going to cost.
 * Generally, the cost of an airline ticket increases with the number of stops.
 * The model that gives the best result is the Random Forest Regressor with a R2 Score:  0.989,  a Mean Squared Error of 5398550.098, a Mean Absolute Error of 888.23 and a Root Mean Squared Error of 2323.478
 
-# Presentation
-
-Tableau presentation is availabe on the following link: https://public.tableau.com/app/profile/clara6389
 
 
 
