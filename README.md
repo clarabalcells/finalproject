@@ -1,4 +1,4 @@
-# Ironhack Final Project: Flight Ticket Predictor
+# Ironhack Final Project: Flight Ticket Price Predictor
 
 
 
